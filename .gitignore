@@ -1,0 +1,7 @@
+histograms/
+__pycache__/
+*.pyc
+.python-version
+pecs-lab-overleaf.zip
+nca-10- Lab. Ramdom variable generation.pdf
+lab-report-template.tex
