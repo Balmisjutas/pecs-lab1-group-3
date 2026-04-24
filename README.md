@@ -27,6 +27,3 @@ Generates:
 - `normal.png`, `exponential.png`, `uniform_real.png`: Continuous distributions shown with PDF curves at n=10000
 - Console output: Statistical validation table
 
-## Report
-
-See `lab-report-template.tex` for the full lab report with analysis of convergence behavior.
